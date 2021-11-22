@@ -1,0 +1,16 @@
+the user guide of buttons:
+
+-Add: adds each worker information on the list and in the database.
+
+-Modify: applicable when the user in case of changing a worker information in the database and on the list.
+ User clicks on the button after selection and one more time when finishing the editing.
+
+-Edit:applicable when the user in case of changing a worker information ONLY on the list.
+User clicks on the button after selection and one more time when finishing the editing.
+
+-Delete: deletes the selected worker information from the list and the database
+
+Please note that the input constraint consists of adding one unique ID for each worker!
+
+Try it and enjoy :)!
+Done by Dorra Jaouad
